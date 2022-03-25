@@ -1,0 +1,40 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  background-color: #202632;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card_contaner{
+  background-color: #313a49;
+  height: 300px;
+  width: 300px;
+  border-radius:10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.card_contaner p {
+color:#53ffab;
+}
+
+.card_contaner h4{
+  color: white;
+}
+
+
+
+.card_contaner hr{
+  width: 90%;
+  height: 0.1px;
+  margin-top: 60px;
+}
+.btn{
+   margin-top:auto;
+   margin-bottom:30px;
+}
+
